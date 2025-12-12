@@ -4,42 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd303002-5b13-4376-bdaa-674788e94812" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/total-demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaine_caract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap4_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_3_avancee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_6_suite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_8_suite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chap5_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapitre1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generate_qrc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwt_random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qr_code_demo.py" afterDir="false" />
+    <list default="true" id="fd303002-5b13-4376-bdaa-674788e94812" name="Changes" comment="Python demo 1">
+      <change afterPath="$PROJECT_DIR$/calcul_moy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circuit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice5_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice5_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice5_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice5_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice5_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_12_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_15_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_6_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_6_b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_6_c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_8_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice6_9_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice7_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice_inst_imbriq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice_lst_bchmt_cond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonction_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonctions_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonctions_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ransomware-style.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +62,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aromaric21&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aromaric21/Python-learning-total-demo.git&quot;,
+    &quot;accountId&quot;: &quot;9416f527-8c4d-44f7-94d4-f589b37bd50d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -67,6 +85,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.calcul_moy.executor": "Run",
     "Python.chaine_caract.executor": "Run",
     "Python.chap4.executor": "Run",
     "Python.chap4_1.executor": "Run",
@@ -92,10 +111,46 @@
     "Python.chap5_8_suite.executor": "Run",
     "Python.chap5_9.executor": "Run",
     "Python.chapitre1.executor": "Run",
+    "Python.circuit.executor": "Run",
+    "Python.exercice5_11.executor": "Run",
+    "Python.exercice5_12.executor": "Run",
+    "Python.exercice5_13.executor": "Run",
+    "Python.exercice5_14.executor": "Run",
+    "Python.exercice5_15.executor": "Run",
+    "Python.exercice6_1.executor": "Run",
+    "Python.exercice6_10.executor": "Run",
+    "Python.exercice6_11.executor": "Run",
+    "Python.exercice6_12.executor": "Run",
+    "Python.exercice6_12_1.executor": "Run",
+    "Python.exercice6_13.executor": "Run",
+    "Python.exercice6_14.executor": "Run",
+    "Python.exercice6_15.executor": "Run",
+    "Python.exercice6_15_1.executor": "Run",
+    "Python.exercice6_16.executor": "Run",
+    "Python.exercice6_2.executor": "Run",
+    "Python.exercice6_3.executor": "Run",
+    "Python.exercice6_4.executor": "Run",
+    "Python.exercice6_5.executor": "Run",
+    "Python.exercice6_6.executor": "Run",
+    "Python.exercice6_6_b.executor": "Run",
+    "Python.exercice6_6_c.executor": "Run",
+    "Python.exercice6_8.executor": "Run",
+    "Python.exercice6_8_1.executor": "Run",
+    "Python.exercice6_9.executor": "Run",
+    "Python.exercice6_9_1.executor": "Run",
+    "Python.exercice7_1.executor": "Run",
+    "Python.exercice_inst_imbriq.executor": "Run",
+    "Python.exercice_lst_bchmt_cond.executor": "Run",
+    "Python.fonctions.executor": "Run",
+    "Python.fonctions_1.executor": "Run",
+    "Python.fonctions_2.executor": "Run",
     "Python.generate_qrc (1).executor": "Run",
+    "Python.list_demo.executor": "Run",
+    "Python.lists.executor": "Run",
     "Python.pwt_random.executor": "Run",
     "Python.qr_code_demo.executor": "Run",
     "Python.qrcode.executor": "Run",
+    "Python.ransomware-style.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -108,117 +163,7 @@
       <recent name="C:\Users\HP\Documents\workflow\workflowPython\total-demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.chap5_10">
-    <configuration name="chap5_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap5_10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chap5_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap5_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chap5_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap5_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chap5_8_suite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap5_8_suite.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="chap5_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap5_9.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.fonction_3">
     <configuration name="chapitre1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="total-demo" />
       <option name="ENV_FILES" value="" />
@@ -242,13 +187,123 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exercice7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercice7_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fonction_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonction_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fonctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fonctions_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fonctions_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.chap5_10" />
-        <item itemvalue="Python.chap5_9" />
-        <item itemvalue="Python.chap5_8" />
-        <item itemvalue="Python.chap5_8_suite" />
-        <item itemvalue="Python.chap5_7" />
+        <item itemvalue="Python.fonction_3" />
+        <item itemvalue="Python.exercice7_1" />
+        <item itemvalue="Python.fonctions_2" />
+        <item itemvalue="Python.fonctions_1" />
+        <item itemvalue="Python.fonctions" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +322,36 @@
       <option name="presentableId" value="Default" />
       <updated>1765250103246</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python demo">
+      <option name="closed" value="true" />
+      <created>1765537355974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765537355974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python demo">
+      <option name="closed" value="true" />
+      <created>1765537366314</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765537366314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python demo 1">
+      <option name="closed" value="true" />
+      <created>1765539282360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765539282360</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python demo" />
+    <MESSAGE value="Python demo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python demo 1" />
   </component>
 </project>

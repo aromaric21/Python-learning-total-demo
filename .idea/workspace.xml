@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd303002-5b13-4376-bdaa-674788e94812" name="Changes" comment="Python demo 1">
-      <change afterPath="$PROJECT_DIR$/dessin_tortue_appel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dessins_tortue.py" afterDir="false" />
+    <list default="true" id="fd303002-5b13-4376-bdaa-674788e94812" name="Changes" comment="Python demo following">
+      <change afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercice7_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwd_access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -44,91 +56,188 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.calcul_moy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chaine_caract.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap4_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_3_avancee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_6_suite.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_8_suite.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chap5_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.chapitre1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.circuit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dessin_tortue_appel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dessins_tortue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice5_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice5_12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice5_13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice5_14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice5_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_12_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_15_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_6_b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_6_c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_8_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice6_9_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice7_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice_inst_imbriq.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercice_lst_bchmt_cond.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fonction_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fonctions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fonctions_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fonctions_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.generate_qrc (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pwt_random.executor&quot;: &quot;Run&quot;,
-    &quot;Python.qr_code_demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.qrcode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ransomware-style.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Documents/workflow/workflowPython/total-demo&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.base.executor": "Run",
+    "Python.base2.executor": "Run",
+    "Python.base_1.executor": "Run",
+    "Python.base_3.executor": "Run",
+    "Python.base_4.executor": "Run",
+    "Python.base_5.executor": "Run",
+    "Python.calcul_moy.executor": "Run",
+    "Python.chaine_caract.executor": "Run",
+    "Python.chap4.executor": "Run",
+    "Python.chap4_1.executor": "Run",
+    "Python.chap4_2.executor": "Run",
+    "Python.chap4_3.executor": "Run",
+    "Python.chap4_4.executor": "Run",
+    "Python.chap4_5.executor": "Run",
+    "Python.chap4_6.executor": "Run",
+    "Python.chap4_7.executor": "Run",
+    "Python.chap4_8.executor": "Run",
+    "Python.chap4_9.executor": "Run",
+    "Python.chap5_1.executor": "Run",
+    "Python.chap5_10.executor": "Run",
+    "Python.chap5_2.executor": "Run",
+    "Python.chap5_3.executor": "Run",
+    "Python.chap5_3_avancee.executor": "Run",
+    "Python.chap5_4.executor": "Run",
+    "Python.chap5_5.executor": "Run",
+    "Python.chap5_6.executor": "Run",
+    "Python.chap5_6_suite.executor": "Run",
+    "Python.chap5_7.executor": "Run",
+    "Python.chap5_8.executor": "Run",
+    "Python.chap5_8_suite.executor": "Run",
+    "Python.chap5_9.executor": "Run",
+    "Python.chapitre1.executor": "Run",
+    "Python.circuit.executor": "Run",
+    "Python.dessin_tortue_appel.executor": "Run",
+    "Python.dessins_tortue.executor": "Run",
+    "Python.exercice5_11.executor": "Run",
+    "Python.exercice5_12.executor": "Run",
+    "Python.exercice5_13.executor": "Run",
+    "Python.exercice5_14.executor": "Run",
+    "Python.exercice5_15.executor": "Run",
+    "Python.exercice6_1.executor": "Run",
+    "Python.exercice6_10.executor": "Run",
+    "Python.exercice6_11.executor": "Run",
+    "Python.exercice6_12.executor": "Run",
+    "Python.exercice6_12_1.executor": "Run",
+    "Python.exercice6_13.executor": "Run",
+    "Python.exercice6_14.executor": "Run",
+    "Python.exercice6_15.executor": "Run",
+    "Python.exercice6_15_1.executor": "Run",
+    "Python.exercice6_16.executor": "Run",
+    "Python.exercice6_2.executor": "Run",
+    "Python.exercice6_3.executor": "Run",
+    "Python.exercice6_4.executor": "Run",
+    "Python.exercice6_5.executor": "Run",
+    "Python.exercice6_6.executor": "Run",
+    "Python.exercice6_6_b.executor": "Run",
+    "Python.exercice6_6_c.executor": "Run",
+    "Python.exercice6_8.executor": "Run",
+    "Python.exercice6_8_1.executor": "Run",
+    "Python.exercice6_9.executor": "Run",
+    "Python.exercice6_9_1.executor": "Run",
+    "Python.exercice7_1.executor": "Run",
+    "Python.exercice7_2.executor": "Run",
+    "Python.exercice_inst_imbriq.executor": "Run",
+    "Python.exercice_lst_bchmt_cond.executor": "Run",
+    "Python.fonction_3.executor": "Run",
+    "Python.fonctions.executor": "Run",
+    "Python.fonctions_1.executor": "Run",
+    "Python.fonctions_2.executor": "Run",
+    "Python.generate_qrc (1).executor": "Run",
+    "Python.list_demo.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.pwd_access.executor": "Run",
+    "Python.pwt_random.executor": "Run",
+    "Python.qr_code_demo.executor": "Run",
+    "Python.qrcode.executor": "Run",
+    "Python.ransomware-style.executor": "Run",
+    "Python.test_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "bases",
+    "last_opened_file_path": "C:/Users/HP/Documents/workflow/workflowPython/total-demo"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Documents\workflow\workflowPython\total-demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dessin_tortue_appel">
+  <component name="RunManager" selected="Python.test_1">
+    <configuration name="base2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="chapitre1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="total-demo" />
       <option name="ENV_FILES" value="" />
@@ -152,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dessin_tortue_appel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="total-demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,95 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dessin_tortue_appel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dessins_tortue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dessins_tortue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercice7_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercice7_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fonction_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonction_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fonctions_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fonctions_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dessin_tortue_appel" />
-        <item itemvalue="Python.dessins_tortue" />
-        <item itemvalue="Python.fonction_3" />
-        <item itemvalue="Python.exercice7_1" />
-        <item itemvalue="Python.fonctions_2" />
+        <item itemvalue="Python.test_1" />
+        <item itemvalue="Python.base2" />
+        <item itemvalue="Python.base_5" />
+        <item itemvalue="Python.base_4" />
+        <item itemvalue="Python.base_3" />
       </list>
     </recent_temporary>
   </component>
@@ -327,13 +348,22 @@
       <option name="project" value="LOCAL" />
       <updated>1765903511629</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Python demo following">
+      <option name="closed" value="true" />
+      <created>1766375831160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766375831160</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python demo" />
     <MESSAGE value="Python demo partie 2" />
     <MESSAGE value="Python demo 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python demo 1" />
+    <MESSAGE value="Python demo following" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python demo following" />
   </component>
 </project>

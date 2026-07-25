@@ -4,16 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd303002-5b13-4376-bdaa-674788e94812" name="Changes" comment="Python demo following">
-      <change afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercice7_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pwd_access.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_1.py" afterDir="false" />
+    <list default="true" id="fd303002-5b13-4376-bdaa-674788e94812" name="Changes" comment="Python bases next">
+      <change afterPath="$PROJECT_DIR$/Procedures/fonctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures/procedures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procedures/procedures_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fenetre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/found_elt_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_bundle_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_bundle_sort2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_bundle_sort3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_bundle_sort4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logical_expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/number_in_two_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operations_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_34_131.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_34_132.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_34_133.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_34_134.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz_35_51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqrt_of_value.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +64,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="bases" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,9 +95,23 @@
     "Python.base.executor": "Run",
     "Python.base2.executor": "Run",
     "Python.base_1.executor": "Run",
+    "Python.base_10.executor": "Run",
+    "Python.base_11.executor": "Run",
+    "Python.base_12.executor": "Run",
+    "Python.base_13.executor": "Run",
+    "Python.base_14.executor": "Run",
+    "Python.base_15.executor": "Run",
+    "Python.base_16.executor": "Run",
+    "Python.base_17.executor": "Run",
+    "Python.base_18.executor": "Run",
+    "Python.base_19.executor": "Run",
     "Python.base_3.executor": "Run",
     "Python.base_4.executor": "Run",
     "Python.base_5.executor": "Run",
+    "Python.base_6.executor": "Run",
+    "Python.base_7.executor": "Run",
+    "Python.base_8.executor": "Run",
+    "Python.base_9.executor": "Run",
     "Python.calcul_moy.executor": "Run",
     "Python.chaine_caract.executor": "Run",
     "Python.chap4.executor": "Run",
@@ -124,23 +171,49 @@
     "Python.exercice7_2.executor": "Run",
     "Python.exercice_inst_imbriq.executor": "Run",
     "Python.exercice_lst_bchmt_cond.executor": "Run",
+    "Python.fenetre.executor": "Run",
     "Python.fonction_3.executor": "Run",
     "Python.fonctions.executor": "Run",
     "Python.fonctions_1.executor": "Run",
     "Python.fonctions_2.executor": "Run",
+    "Python.found_elt_in_list.executor": "Run",
     "Python.generate_qrc (1).executor": "Run",
+    "Python.lab.executor": "Run",
+    "Python.lab_1.executor": "Run",
+    "Python.lab_2.executor": "Run",
+    "Python.lab_3.executor": "Run",
+    "Python.lab_5.executor": "Run",
+    "Python.lab_6.executor": "Run",
+    "Python.lab_7.executor": "Run",
+    "Python.lab_8.executor": "Run",
+    "Python.list_bundle_sort.executor": "Run",
+    "Python.list_bundle_sort2.executor": "Run",
+    "Python.list_bundle_sort3.executor": "Run",
+    "Python.list_bundle_sort4.executor": "Run",
     "Python.list_demo.executor": "Run",
+    "Python.list_lab.executor": "Run",
     "Python.lists.executor": "Run",
+    "Python.logical_expressions.executor": "Run",
+    "Python.number_in_two_lists.executor": "Run",
+    "Python.operations_lists.executor": "Run",
+    "Python.procedures.executor": "Run",
+    "Python.procedures_arguments.executor": "Run",
     "Python.pwd_access.executor": "Run",
     "Python.pwt_random.executor": "Run",
     "Python.qr_code_demo.executor": "Run",
     "Python.qrcode.executor": "Run",
+    "Python.quiz_34_131.executor": "Run",
+    "Python.quiz_34_132.executor": "Run",
+    "Python.quiz_34_133.executor": "Run",
+    "Python.quiz_34_134.executor": "Run",
+    "Python.quiz_35_51.executor": "Run",
     "Python.ransomware-style.executor": "Run",
+    "Python.sqrt_of_value.executor": "Run",
     "Python.test_1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "bases",
+    "git-widget-placeholder": "bases__part2",
     "last_opened_file_path": "C:/Users/HP/Documents/workflow/workflowPython/total-demo"
   }
 }]]></component>
@@ -149,95 +222,7 @@
       <recent name="C:\Users\HP\Documents\workflow\workflowPython\total-demo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_1">
-    <configuration name="base2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="base_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="base_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="base_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="total-demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.quiz_3682">
     <configuration name="chapitre1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="total-demo" />
       <option name="ENV_FILES" value="" />
@@ -261,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="found_elt_in_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="total-demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,7 +259,95 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/found_elt_in_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_lab" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_lab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_in_two_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_in_two_lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_3681" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz_3681.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quiz_3682" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="total-demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quiz_3682.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_1" />
-        <item itemvalue="Python.base2" />
-        <item itemvalue="Python.base_5" />
-        <item itemvalue="Python.base_4" />
-        <item itemvalue="Python.base_3" />
+        <item itemvalue="Python.quiz_3682" />
+        <item itemvalue="Python.quiz_3681" />
+        <item itemvalue="Python.list_lab" />
+        <item itemvalue="Python.number_in_two_lists" />
+        <item itemvalue="Python.found_elt_in_list" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766375831160</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Python bases next">
+      <option name="closed" value="true" />
+      <created>1774276837845</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774276837845</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -364,6 +445,7 @@
     <MESSAGE value="Python demo partie 2" />
     <MESSAGE value="Python demo 1" />
     <MESSAGE value="Python demo following" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python demo following" />
+    <MESSAGE value="Python bases next" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python bases next" />
   </component>
 </project>
